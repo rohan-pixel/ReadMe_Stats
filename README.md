@@ -1,10 +1,34 @@
-# 💫 About Me:
-About Me<br>👋 Hello! I'm Rohan Nigam, the Co-founder & Chief Technology Officer (CTO) at TechLearn India. 
-With a passion for technology and a drive for innovation, I lead our team in leveraging cutting-edge tools and platforms to create impactful solutions in the edtech space.<br><br>Skills & Expertise<br>Frontend Development: Proficient in Angular, Astro, and JavaScript, 
+# 💫 About Me: 👋 Hi, I'm Rohan Nigam  
+### Co-founder & Chief Technology Officer (CTO) at [TechLearn India](https://techlearn.com)  
 
-I specialize in crafting engaging user interfaces and seamless user experiences.<br>Cloud Technologies: Experienced in cloud computing, I harness the power of cloud platforms to build scalable and reliable applications.<br>DevOps: Skilled in DevOps practices, 
+I’m passionate about harnessing technology to drive innovation and create impactful solutions in the edtech sector. As a leader in the field, I specialize in building scalable and user-friendly applications that deliver a seamless digital learning experience.
 
-I streamline our development processes and ensure continuous integration and deployment.<br>Backend as a Service (BaaS): Well-versed in backend services such as Firebase, Supabase, Hasura, and FaunaDB, I architect robust backend solutions to support our applications.
+---
+
+## 🌟 Expertise & Skills
+
+### **Frontend Development**
+- **Proficient in:** Angular, Astro, JavaScript
+- **Focus:** Creating dynamic, intuitive, and engaging user interfaces that enhance user experience across platforms.
+
+### **Cloud Technologies**
+- **Platforms:** AWS, Google Cloud, Azure
+- **Experience:** Building scalable, secure, and reliable cloud-based solutions that drive our edtech infrastructure.
+
+### **DevOps & CI/CD**
+- **Tools:** Jenkins, Docker, Kubernetes
+- **Goal:** Streamlining development pipelines and enabling continuous integration, deployment, and delivery for high-efficiency workflows.
+
+### **Backend as a Service (BaaS)**
+- **Expertise in:** Firebase, Supabase, Hasura, FaunaDB
+- **Objective:** Designing and deploying robust, efficient backend solutions to power our applications.
+
+---
+
+## 🚀 What I'm Working On
+At TechLearn India, we’re leveraging cutting-edge technologies to revolutionize education. I lead our technical teams in exploring AI, cloud computing, and advanced web technologies to build solutions that empower learners worldwide.
+
+---
 
 
 ## 🌐 Socials:

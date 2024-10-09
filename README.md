@@ -1,5 +1,5 @@
 # 💫 About Me: 👋 Hi, I'm Rohan Nigam  
-### Co-founder & Chief Technology Officer (CTO) at [TechLearn India](https://techlearn.com)  
+### Co-founder & Chief Technology Officer (CTO) at [TechLearn India](https://app.techlearnindia.com)  
 
 I’m passionate about harnessing technology to drive innovation and create impactful solutions in the edtech sector. As a leader in the field, I specialize in building scalable and user-friendly applications that deliver a seamless digital learning experience.
 
